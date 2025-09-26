@@ -48,6 +48,11 @@
 
 ###
 
+<!-- Profile views badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hassan-A-Karakra&label=Profile%20views" alt="Profile views" />
+</p>
+
 ## 🚀 About Me
 
 ```python
@@ -75,4 +80,6 @@ me = HassanKarakra()
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=Hassan-A-Karakra&label=Profile%20views)
+
+
 
