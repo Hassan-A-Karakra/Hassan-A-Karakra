@@ -72,3 +72,7 @@ class HassanKarakra:
         return "Becoming a professional software engineer and contributing to open source"
 
 me = HassanKarakra()
+
+
+![Profile views](https://komarev.com/ghpvc/?username=Hassan-A-Karakra&label=Profile%20views)
+
