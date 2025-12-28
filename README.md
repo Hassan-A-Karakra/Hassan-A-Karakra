@@ -5,6 +5,22 @@
 
 ---
 
+## 📍 Where to find me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/hassan-ahmad-karakra" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
+  </a>
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" height="30" alt="Portfolio" />
+  </a>
+</p>
+
+---
+
 ## 🧰 Tech Stack
 
 <div align="center">
@@ -34,22 +50,6 @@
 
 ---
 
-## 🔍 Where to find me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/hassan-ahmad-karakra" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" alt="Gmail" />
-  </a>
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" height="30" alt="Portfolio" />
-  </a>
-</p>
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -64,50 +64,13 @@
 
 ---
 
-### 🎮 Let's play Pokémon together~
-<img src="https://toy.cloudreve.org/image" width="300"/> 
+## 💬 Like to meet me?
 
-<img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/> 
-<a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/HFO4">
-  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/>
+Pick a slot if you'd like to meet me and chat about anything you are passionate about – but make sure to describe the agenda.
+
+<a href="https://calendly.com/hassan-karakra/30min" target="_blank">
+  <img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png">
 </a>
-
-<br>
-<a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/HFO4">
-  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/>
-</a>
-<img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/>
-<a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/HFO4">
-  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/>
-</a>
-
-<br>
-<a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/HFO4">
-  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30"/>
-</a> 
-<a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/HFO4">
-  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30"/>
-</a>
-
-<br>
-<a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/HFO4">
-  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/>
-  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/>
-</a>
-
-<br>
-<img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/>
-<img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/>
-<a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/HFO4">
-  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" width="74"/>
-</a> 
-<a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/HFO4">
-  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" width="65" />
-</a>
-
------
-
-Click buttons above to issue new gamepad input, refresh this page to view newest game screen.
 
 ---
 
