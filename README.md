@@ -42,8 +42,7 @@
 ## 🔍 Where to find me
 
 <p align="center">
-  <!-- عدّل الروابط وضع روابطك -->
-  <a href="https://www.linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/hassan-ahmad-karakra" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" alt="LinkedIn" />
   </a>
   <a href="mailto:your-email@gmail.com" target="_blank">
@@ -112,8 +111,10 @@
 </a>
 
 -----
-Click buttons above to issue new gamepad input, refresh this page to view newst game screen.
 
+Click buttons above to issue new gamepad input, refresh this page to view newest game screen.
+
+---
 
 ## 🚀 About Me
 
