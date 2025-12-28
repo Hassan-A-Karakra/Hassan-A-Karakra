@@ -1,3 +1,15 @@
+<div align="center" width="50">
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Hello Coders" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="Workspace"  width="40%"/><br> 
+
+<details>
+<p><strong> <summary>  Busy coding & Vibing to :   </summary> </strong></p>
+
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <be>
+
+</details>
+
 <br clear="both">
 
 <h1 align="center">👋 Hello, I'm Hassan Ahmad Karakra</h1>
@@ -56,7 +68,17 @@
 
 ---
 
-## 📊 GitHub Statistics <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hassan-A-Karakra&show_icons=true&theme=radical&hide_border=true" height="165" alt="stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassan-A-Karakra&layout=compact&theme=radical&hide_border=true" height="165" alt="languages" /> <img src="https://streak-stats.demolab.com?user=Hassan-A-Karakra&theme=radical&hide_border=true" height="165" alt="streak" /> </div>
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hassan-A-Karakra&show_icons=true&theme=radical&hide_border=true" height="165" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassan-A-Karakra&layout=compact&theme=radical&hide_border=true" height="165" alt="languages" />
+  <img src="https://streak-stats.demolab.com?user=Hassan-A-Karakra&theme=radical&hide_border=true" height="165" alt="streak" />
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Hassan-A-Karakra&label=Profile%20views&color=red&style=flat" alt="Profile views" />
+</p>
 
 ---
 
