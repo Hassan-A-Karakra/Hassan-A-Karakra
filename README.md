@@ -3,11 +3,6 @@
 <h1 align="center">👋 Hello, I'm Hassan Ahmad Karakra</h1>
 <h3 align="center">💻 Computer Science Student | Full Stack Developer | Software Quality Enthusiast</h3>
 
-<!-- Typing SVG (Optional) -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Development+%7C+Angular+%7C+React+%7C+Flutter;Software+Quality+Assurance+%7C+Automation+Testing;Open+Source+Contributor+%7C+Always+Learning" alt="Typing SVG" />
-</p>
-
 ---
 
 ## 🧰 Tech Stack
