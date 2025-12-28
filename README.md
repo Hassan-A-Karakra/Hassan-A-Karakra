@@ -1,7 +1,6 @@
-<br clear="both">
+# 👋 Hello, I'm Hassan Ahmad Karakra
 
-<h1 align="center">👋 Hello, I'm Hassan Ahmad Karakra</h1>
-<h3 align="center">💻 Computer Science Student | Full Stack Developer | Software Quality Enthusiast</h3>
+### 💻 Computer Science Student | Full Stack Developer | Software Quality Enthusiast
 
 ---
 
