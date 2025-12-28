@@ -56,17 +56,7 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hassan-A-Karakra&show_icons=true&theme=radical&hide_border=true" height="165" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassan-A-Karakra&layout=compact&theme=radical&hide_border=true" height="165" alt="languages" />
-  <img src="https://streak-stats.demolab.com?user=Hassan-A-Karakra&theme=radical&hide_border=true" height="165" alt="streak" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hassan-A-Karakra&label=Profile%20views&color=red&style=flat" alt="Profile views" />
-</p>
+## 📊 GitHub Statistics <div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Hassan-A-Karakra&show_icons=true&theme=radical&hide_border=true" height="165" alt="stats" /> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hassan-A-Karakra&layout=compact&theme=radical&hide_border=true" height="165" alt="languages" /> <img src="https://streak-stats.demolab.com?user=Hassan-A-Karakra&theme=radical&hide_border=true" height="165" alt="streak" /> </div>
 
 ---
 
